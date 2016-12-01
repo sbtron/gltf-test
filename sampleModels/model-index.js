@@ -21,6 +21,7 @@ ModelIndex.List = [
     {name:'Avocado', scale:0.5},
     {name:'BarramundiFish', scale:0.05},
     {name:'SmilingFace', scale:1.0},
+    {name:'FarmLandDiorama', scale:0.05}
 ];
 
 ModelIndex.HasGifScreenshot = [ // List of only models that have *.gif screenshots (as opposed to *.png)
