@@ -50,8 +50,9 @@ var createScene = function(engine) {
         camera.panningSensibility = 50.0;
         camera.angularSensibility = 500;
         scene.activeCamera = camera;
-        scene.forceShowBoundingBoxes = true;
-        scene.debugLayer.show(true, camera);
+        //scene.forceShowBoundingBoxes = true;
+        //scene.debugLayer.show(true, camera);
+
 
         engine.runRenderLoop(function() {
             scene.activeCamera.alpha += 0.01;

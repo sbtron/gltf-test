@@ -1523,7 +1523,7 @@
                 ],
                 "shininess": 6.31179,
                 "specular": "texture_m0mtl_farm_land_diorama_a-specular-image",
-                "transparency": 0
+                "transparency": 1.0
             }
         },
         "m1mtl_farm_land_diorama_b-fx": {
@@ -1540,7 +1540,7 @@
                 ],
                 "shininess": 20,
                 "specular": "texture_m1mtl_farm_land_diorama_b-specular-image",
-                "transparency": 0
+                "transparency": 1.0
             }
         },
         "m2mtl_farm_land_diorama_c-fx": {
@@ -1557,7 +1557,7 @@
                 ],
                 "shininess": 20,
                 "specular": "texture_m2mtl_farm_land_diorama_c-specular-image",
-                "transparency": 0
+                "transparency": 1.0
             }
         },
         "m3mtl_farm_land_diorama_d-fx": {
@@ -1603,7 +1603,7 @@
                     0,
                     1
                 ],
-                "transparency": 0
+                "transparency": 1.0
             }
         },
         "m5mtl_farm_land_diorama_e-fx": {
